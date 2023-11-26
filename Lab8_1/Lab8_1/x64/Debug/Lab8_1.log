@@ -1,4 +1,0 @@
-﻿  Me.c
-D:\c#_files\Lab8_1\Lab8_1\Me.c(17,2): warning C4013: SetConsoleCP: нет определения; предполагается "extern" с возвратом типа "int"
-D:\c#_files\Lab8_1\Lab8_1\Me.c(18,2): warning C4013: SetConsoleOutputCP: нет определения; предполагается "extern" с возвратом типа "int"
-  Lab8_1.vcxproj -> D:\c#_files\Lab8_1\x64\Debug\Lab8_1.exe
