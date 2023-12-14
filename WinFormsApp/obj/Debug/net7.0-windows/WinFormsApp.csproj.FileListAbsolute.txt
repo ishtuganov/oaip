@@ -1,0 +1,16 @@
+D:\c#_files\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.exe
+D:\c#_files\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.deps.json
+D:\c#_files\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.runtimeconfig.json
+D:\c#_files\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.dll
+D:\c#_files\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.pdb
+D:\c#_files\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Form1.resources
+D:\c#_files\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.GenerateResource.cache
+D:\c#_files\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_files\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+D:\c#_files\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfo.cs
+D:\c#_files\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\c#_files\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.dll
+D:\c#_files\WinFormsApp\obj\Debug\net7.0-windows\refint\WinFormsApp.dll
+D:\c#_files\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.pdb
+D:\c#_files\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\c#_files\WinFormsApp\obj\Debug\net7.0-windows\ref\WinFormsApp.dll
