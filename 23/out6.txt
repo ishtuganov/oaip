@@ -1,0 +1,53 @@
+#define _CRT_SECURE_NO_WARNINGS
+0#include <stdio.h>
+0#include <Windows.h>
+0#include <tchar.h>
+0
+0
+0
+0#define MAX_LEN 100
+0char s[MAX_LEN];
+1
+0
+0
+0void main() {
+0	SetConsoleCP(1251);
+1	SetConsoleOutputCP(1251);
+1	printf("Иштуганов Азамат\n");
+1	printf("ЛР23 Задача 6\n");
+1	// Входной файл
+0	FILE* fin = fopen("in6.txt", "rt");
+1	if (fin == NULL) {
+0		printf("Входной файл не найден");
+1		return;
+1	}
+0
+0	// Выходной файл
+0	FILE* fout;
+1	fout = fopen("out6.txt", "wt");
+1	if (fout == NULL) {
+0		printf("Выходной файл не создался");
+1		return;
+1	}
+0	// в цикле для всех строк
+0	while (!feof(fin)) {
+0		// загрузить строку
+0		if (fgets(s, MAX_LEN - 1, fin) != NULL) {
+0			int n = 0;
+1			for (int i = 0; s[i] != '\0'; i++) {
+2				if (s[i] == ';') {
+1					n++;
+1				}
+0			}
+0			char str[10];
+1			snprintf(str, sizeof str, "%d", n);
+1			strcat(s, str);
+1			fprintf(fout, "%s", s);
+1			printf(">>%s<<\n", s);
+1		}
+0	}
+0	fclose(fin);
+1	fclose(fout);
+1	printf("ЛР23 Задача 6 FINISH\n");
+1}
+0
