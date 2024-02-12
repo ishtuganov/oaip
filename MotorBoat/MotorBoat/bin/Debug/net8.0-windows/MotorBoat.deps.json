@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MotorBoat/1.0.0": {
+        "runtime": {
+          "MotorBoat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MotorBoat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
